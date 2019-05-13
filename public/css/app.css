@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+}
+
+img {
+  width: 100px;
+  height: auto;
+}
+
+.choose-location {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.select__wrapper {
+  display: inline-flex;
+  flex-direction: column;
+  padding: 10px 5px;
+}
+

@@ -1,0 +1,57 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+	background-color: #fff;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.content {
+	background-color: #929102;
+	color: #fefefe;
+}
+
+.links {
+	a {
+		color: #fefefe;
+	}
+}
+
+.block {
+	background: #5544ee;
+	margin-top: 10px;
+}
+
+header {
+	padding: 20px 0;
+	background-color: #cafa;
+}
+
+ul {
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+	padding-left: 0 !important;
+	align-items: center;
+	margin: 0;
+}
+
+.login {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.login__wrapper {
+	padding: 20px;
+	background-color: #000;
+}

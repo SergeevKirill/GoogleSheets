@@ -32,7 +32,7 @@
         <input type="text" name="third"> 
     </form>
     <button type="submit" class='js-submit-data' id="add_data">Add data</button>
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ46202b9LO6PRyI9LY2OKrAZOIgi-hroCVmdS7aPIR7PGG2Xf-IZvrjmZJI9gUhxbWDZkdXkyQPOnq/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    {{-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ46202b9LO6PRyI9LY2OKrAZOIgi-hroCVmdS7aPIR7PGG2Xf-IZvrjmZJI9gUhxbWDZkdXkyQPOnq/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe> --}}
     
 @endsection
 
